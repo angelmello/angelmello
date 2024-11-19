@@ -2,6 +2,7 @@
 ## Oiii eu sou Angélica Freitas, estudante de ciência da computação, mãe de quatro filhos e🐶
 
 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Angel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Angel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
