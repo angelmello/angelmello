@@ -1,5 +1,5 @@
 
-## Oiii eu sou Angélica Freitas, estudante de ciência da computação, mãe de quatro filhos e 1 pet.
+## Oiii eu sou Angélica Freitas, estudante de ciência da computação, mãe de quatro filhos e🐶
 
 
 <div style="display: inline_block"><br>
